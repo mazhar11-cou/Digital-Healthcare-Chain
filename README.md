@@ -21,8 +21,17 @@ Thus, blockchain provides an elegant solution to the problems identified above. 
 
 ## Privacy and Security
 
+<img src = "Files/privacy.jpg">
+Fig: Privacy and security in Healthcare system
+</br>
+</br>
+
 The world’s adoption of patient-centric approach in the delivery of healthcare services has enabled the sharing of health information across the globe. This has opened up a number of privacy and security issues. Both health providers and patients are concerned with what information should be shared. Both expect that only authorized people should have an access to the health information. In addition to this, health information that has been shared on trust should be used for the sole intended purpose. It has therefore been noted that privacy and security of health information are paramount for the delivery of patient-centric systems. Besides privacy and security laws, healthcare providers as well as health consumers must take collaborative initiative to keep health information private and secure. Administrative, technical and physical controls can be implemented in order to protect health information. Funders should also put the formulation of privacy and security laws and policies as a priority in low-income countries.
 
+<img src = "Files/Security.jpg">
+Fig: Security of Blockchain based Healthcare system
+</br>
+</br>
 Generally, privacy entails the ability of an individual or group to seclude themselves, or information about themselves. It is therefore an open secret that limited resources such as availability of health facilities, funding, access to good schools and other critical services in developing countries have an impact on the implementation of privacy policies for example, only 46% of citizens in Bangladesh live within a 5 km radius of any kind of health facility. Few health facilities lead to congestion that consequently compromises the privacy of patients. Shortage of qualified health professionals is a major challenge in developing countries. For instance, there are only 2 physicians per 100,000 population and 34 nurses and midwives per 100,000 population in Bangladesh. This has adverse impact on the delivery of the quality of healthcare services including maintaining privacy and confidentiality of patients. This means that a striking balance must be sought for patients to get quality healthcare services without sacrificing their right to privacy.
 
 # Implementation
@@ -82,8 +91,12 @@ Also, one should also be aware that blockchain technology is still a developing 
 ## Governance and Architecture 
 
 Within the digital domain, and more specifically the domain of digital network providers, the state has limited powers and new actors emerge. These new actors command others through network-making and networked power, in a multitude of continuously changing relationships. Individual ownership of governance is limited. Governance over and within this network is thereby differentiated. This problematizes that power is dispersed throughout the network and is dependent on clusters/alliances of actors that can change per topic. 
- 
+
+<img src = "Files/Governance  and Archetecture.jpg">
 Fig: Governance and Architecture of Blockchain base Healthcare system sample
+</br>
+</br>
+ 
 
 ## Valuation and Distribution
 
