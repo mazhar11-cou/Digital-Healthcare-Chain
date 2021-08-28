@@ -117,7 +117,7 @@ The data can be used for analytics in an anonymized manner. Anonymized health da
 
 ## Project Demo video:
 
-<a href="https://youtu.be/qLAOjwBivqQ">1 minute demo video for introduction </a>
+<a href="https://youtu.be/qLAOjwBivqQ">1 minute demo video for introduction Digital Healthcare Chain </a>
 
 
 
