@@ -1,5 +1,5 @@
 # Digital-Healthcare-Chain
-This project is based on blockchain. 
+This whitepaper is based on blockchain technology.  
 
 ## Problem in today’s healthcare
 Today, Healthcare in advanced societies is a complex ecosystem of
